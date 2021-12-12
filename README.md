@@ -48,6 +48,7 @@ and push the negative ones towards the anchor.
 <img src="figs/fig1.png" width="536px"/>
 
 T-SNE visualizations of latent features from four datasets, where (a-d) show the distributions of SingleSet, FedAvg, FedMRI without Lcon, and our entire FedMRI algorithm, respectively.
+
 <img src="figs/fige2.png" width="536px"/>
 
 
