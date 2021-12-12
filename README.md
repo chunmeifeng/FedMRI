@@ -46,6 +46,9 @@ and push the negative ones towards the anchor.
 ### Qualitative Results
 ----------
 <img src="figs/fig1.png" width="536px"/>
+
+T-SNE visualizations of latent features from four datasets, where (a-d) show the distributions of SingleSet, FedAvg [24], FedMRI without Lcon, and our entire FedMRI algorithm, respectively. In SingleSet, each client is trained to use their local data with- out FL. The distribution of points in (a) is clearly differ- entiated because each dataset has its own biases, while the data in (b), (c) and (d) overlap to varying degrees, as these models benefit from the joint training mechanism of FL. However, on the datasets with large differences in distri- bution, e.g., fastMRI and BraTS, FedAvg [24] nearly fails (see Fig. 3 (b)). Notably, even without Lcon, our method still aligns the latent space distribution across the four dif- ferent datasets, which demonstrates that sharing a global en- coder and keeping a client-specific decoder can effectively reduce the domain shift problem (see Fig. 3 (c)). Fig. 3 (d) shows a fully mixed distribution for the latent features of the different clients. This can be attributed to the weighted contrastive regularization, which enables our FedMRI al- gorithm to effectively correct deviations between the client and server during optimization (see Fig. 3 (d))
+
 <img src="figs/fige2.png" width="536px"/>
 
 
