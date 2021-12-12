@@ -2,6 +2,14 @@
 
 # [Specificity-Preserving Federated Learning for MR Image Reconstruction]( )
 
+> **Authors:** 
+> [Chun-Mei Feng](https://scholar.google.com.hk/citations?user=g2nqHBcAAAAJ&hl=zh-CN), 
+> [Yunlu Yan](), 
+> [Huazhu Fu](http://hzfu.github.io/), 
+> [Yong Xu](https://scholar.google.com.hk/citations?user=zOVgYQYAAAAJ&hl=zh-CN), and 
+> [Ling Shao](http://www.inceptioniai.org/).
+
+
 [[Paper]( )][[Code](https://github.com/chunmeifeng/FedMRI)]
 
 ## Dependencies
@@ -43,7 +51,6 @@ python ixi_train_t2net.py
 ```
 
 ###  :fire: NEWS :fire:
-## ⚡  **News！**
 * We have upload the mask file. 
 * Before our project, you need to  transform the .nii file to .mat file at first.  
 * We have provided the code of converting the .nii file to .mat file.
