@@ -1,0 +1,17 @@
+
+                                  #Data parameters
+dataset: "BraTS"                                                      # Dataset type. currently only IXI supported.
+data_dir: "/home/jc3/Data/BraTS"  # "/home/jc3/Data/IXI_T2"
+train_data_dir: "/home/jc3/Data/BraTS2019/train"                                    # Training files dir, should contain hdf5 preprocessed data.
+# val_data_dir: "/data/yzy/Data/BraTS/MICCAI_BraTS_2019_Data_Validation"                                        # Validation files dir, should contain hdf5 preprocessed data.
+val_data_dir: "/home/jc3/Data/BraTS2019/train"                                        # Validation files dir, should contain hdf5 preprocessed data.
+
+train_file: "train_new.txt"
+val_file: "val.txt"
+
+
+output_dir: "./logs"                                           # Directory to save checkpoints and tensorboard data.
+num_input_slices: 1                                                 # Num of slices to use for input (3 means the predicted slice + previous slice + next slice).
+img_size: 240                                                      # Input image size (256X256 for IXI).
+slice_range: [0,139]                                               # Slices to use for training data.
+
