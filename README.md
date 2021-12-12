@@ -76,7 +76,7 @@ python train_multi_gpu.py
 ## ⚡ Citation
 
 ```
-@inproceedings{feng2021,
+@inproceedings{feng2021FedMRI,
   title={Specificity-Preserving Federated Learning for MR Image Reconstruction},
   author={Feng, Chun-Mei and Yan, Yunlu and Fu, Huazhu and Xu, Yong and Ling, Shao },
   journal={arXiv e-prints},
