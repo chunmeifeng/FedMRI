@@ -25,6 +25,13 @@
 ## ⚡ Overview
 
 ### Motivation
+<p align="center">
+    <img src="imgs/framework-final-min.png"/> <br />
+    <em> 
+    Figure 1: Overview of the proposed PraNet, which consists of three reverse attention 
+    modules with a parallel partial decoder connection. See § 2 in the paper for details.
+    </em>
+</p>
 ### Framework Overview
 ### Results
 
