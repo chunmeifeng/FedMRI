@@ -26,7 +26,7 @@
 
 ### Motivation
 ----------
-<img src="figs/fig0.jpg" width="536px"/>
+<img src="figs/fig0.png" width="536px"/>
 
 Classical FL algorithm for MR image reconstruction: (a) average all the local client models to obtain a general global model, 
 or (b) repeatedly align the latent features between the source and target clients. 
@@ -35,7 +35,7 @@ as well as  client-specific properities.
 
 ### Framework Overview
 ----------
-<img src="figs/fig2.jpg" width="536px"/>
+<img src="figs/fig2.png" width="536px"/>
 
 Overview of the FedMRI framework. Instead of averaging all the local client models, 
 a globally shared encoder is used to obtain a generalized representation, 
@@ -44,7 +44,7 @@ We apply the weighted contrastive regularization to better pull the positive pai
 and push the negative ones towards the anchor.
 
 ### Qualitative Results
-<img src="figs/fig2.jpg" width="536px"/>
+<img src="figs/fige2.png" width="536px"/>
 
 
 ## ⚡ Data Prepare
