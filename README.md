@@ -12,7 +12,7 @@
 
 [[Paper]( )][[Code](https://github.com/chunmeifeng/FedMRI)]
 
-## Dependencies
+## ⚡ Dependencies
 * numpy==1.18.5
 * scikit_image==0.16.2
 * torchvision==0.8.1
@@ -22,7 +22,7 @@
 * h5py==2.10.0
 * PyYAML==5.4
 
-## Data Prepare
+## ⚡ Data Prepare
 
 Download data from the link https://fastmri.org/dataset/, https://www.med.upenn.edu/sbia/brats2018/data.html 
 
@@ -30,7 +30,7 @@ Download data from the link https://fastmri.org/dataset/, https://www.med.upenn.
 
 `git clone https://github.com/chunmeifeng/FedMRI.git`
 
-## Train
+## ⚡ Train
 single gpu train:
 "python ixi_train_t2net.py"
 
@@ -56,7 +56,7 @@ python ixi_train_t2net.py
 * We have provided the code of converting the .nii file to .mat file.
 
 
-## Citation
+## ⚡ Citation
 
 ```
 @inproceedings{feng2021,
