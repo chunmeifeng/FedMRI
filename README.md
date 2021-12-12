@@ -34,6 +34,10 @@ In contrast, we propose a specificity- preserving mechanism (c) to consider both
 as well as  client-specific properities.
 
 ### Framework Overview
+----------
+<img src="figs/fig2.jpg" width="536px"/>
+
+Overview of the FedMRI framework. Instead of averaging all the local client models, a globally shared encoder is used to obtain a generalized representation, and a client-specific decoder is used to explore unique domain-specific information. We apply the weighted contrastive regularization to better pull the positive pairs together and push the negative ones towards the anch
 ### Results
 
 ## ⚡ Data Prepare
