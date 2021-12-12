@@ -1,4 +1,4 @@
-# T2Net
+# FedMRI
 
 # [Specificity-Preserving Federated Learning for MR Image Reconstruction]( )
 
