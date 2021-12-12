@@ -16,7 +16,7 @@
 
 ## Data Prepare
 
-1. Download data from the link https://fastmri.org/dataset/, https://www.med.upenn.edu/sbia/brats2018/data.html 
+Download data from the link https://fastmri.org/dataset/, https://www.med.upenn.edu/sbia/brats2018/data.html 
 
 [[Training code --> FedMRI](https://github.com/chunmeifeng/FedMRI)]
 
