@@ -52,10 +52,11 @@ python ixi_train_t2net.py
 ## Citation
 
 ```
-@inproceedings{feng2021T2Net,
-  title={Task Transformer Network for Joint MRI Reconstruction and Super-Resolution},
-  author={Feng, Chun-Mei and Yan, Yunlu and Fu, Huazhu and Chen, Li and Xu, Yong},
-  booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+@inproceedings{feng2021,
+  title={Specificity-Preserving Federated Learning for MR Image Reconstruction},
+  author={Feng, Chun-Mei and Yan, Yunlu and Fu, Huazhu and Xu, Yong and Ling, Shao },
+  journal={arXiv e-prints},
+  pages={arXiv--2106},
   year={2021}
 }
 ```
