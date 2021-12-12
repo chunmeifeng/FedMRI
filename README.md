@@ -28,8 +28,7 @@
 <p align="center">
     <img src="imgs/framework-final-min.png"/> <br />
     <em> 
-    Figure 1: Overview of the proposed PraNet, which consists of three reverse attention 
-    modules with a parallel partial decoder connection. See § 2 in the paper for details.
+    Figure 1: Classical FL algorithm for MR image reconstruction: (a) average all the local client models to obtain a general global model~\cite{mcmahan2017communication}, or (b) repeatedly align the latent features between the source and target clients~\cite{guo2021multi}. In contrast, we propose a \textit{specificity-preserving} mechanism (c) to consider both ``generalized shared information'' as well as ``client-specific properties''.
     </em>
 </p>
 ### Framework Overview
