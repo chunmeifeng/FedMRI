@@ -44,6 +44,8 @@ We apply the weighted contrastive regularization to better pull the positive pai
 and push the negative ones towards the anchor.
 
 ### Qualitative Results
+----------
+<img src="figs/fig1.png" width="536px"/>
 <img src="figs/fige2.png" width="536px"/>
 
 
