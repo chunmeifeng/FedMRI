@@ -42,7 +42,7 @@ you can change the 65th line in ixi_tain_t2net.py , set num_gpus = gpu number, t
 python ixi_train_t2net.py
 ```
 
-
+###  :fire: NEWS :fire:
 ## ⚡  **News！**
 * We have upload the mask file. 
 * Before our project, you need to  transform the .nii file to .mat file at first.  
