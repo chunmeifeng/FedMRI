@@ -7,7 +7,7 @@
 > [Yunlu Yan](), 
 > [Huazhu Fu](http://hzfu.github.io/), 
 > [Yong Xu](https://scholar.google.com.hk/citations?user=zOVgYQYAAAAJ&hl=zh-CN), and 
-> [Ling Shao](http://www.inceptioniai.org/).
+> [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN).
 
 
 [[Paper]( )][[Code](https://github.com/chunmeifeng/FedMRI)]
