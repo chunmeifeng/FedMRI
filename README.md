@@ -1,6 +1,6 @@
 # FedMRI
 
-# [Specificity-Preserving Federated Learning for MR Image Reconstruction]( )
+# [Specificity-Preserving Federated Learning for MR Image Reconstruction](https://arxiv.org/pdf/2112.05752v1.pdf)
 
 > **Authors:** 
 > [Chun-Mei Feng](https://scholar.google.com.hk/citations?user=g2nqHBcAAAAJ&hl=zh-CN), 
@@ -10,7 +10,7 @@
 > [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN).
 
 
-[[Paper]( )][[Code](https://github.com/chunmeifeng/FedMRI)]
+[[Paper](https://arxiv.org/pdf/2112.05752v1.pdf)][[Code](https://github.com/chunmeifeng/FedMRI)]
 
 ## ⚡ Dependencies
 * numpy==1.18.5
