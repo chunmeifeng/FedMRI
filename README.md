@@ -75,7 +75,7 @@ python train.py
 python train_multi_gpu.py
 ```
 
-## ⚡ Concate
+## ⚡ Contcat
 Any problem please feel free to contact me: strawberry.feng0304@gmail.com
 
 ## ⚡ Citation
