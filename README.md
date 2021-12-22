@@ -58,7 +58,7 @@ Download data from the link fastMRI:https://fastmri.org/dataset/,
 
 BraTs: https://www.med.upenn.edu/sbia/brats2018/data.html, 
 
-SMS and uMR will be released after patient privacy is excluded.
+SMS and uMR will be released after excluding patient personal information.
 
 [[Training code --> FedMRI](https://github.com/chunmeifeng/FedMRI)]
 
