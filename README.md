@@ -55,7 +55,9 @@ T-SNE visualizations of latent features from four datasets, where (a-d) show the
 ## ⚡ Data Prepare
 
 Download data from the link fastMRI:https://fastmri.org/dataset/, 
+
 BraTs: https://www.med.upenn.edu/sbia/brats2018/data.html, 
+
 SMS and uMR will be released after patient privacy is excluded.
 
 [[Training code --> FedMRI](https://github.com/chunmeifeng/FedMRI)]
