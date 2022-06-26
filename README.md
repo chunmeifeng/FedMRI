@@ -43,6 +43,25 @@ and a client-specific decoder is used to explore unique domain-specific informat
 We apply the weighted contrastive regularization to better pull the positive pairs together 
 and push the negative ones towards the anchor.
 
+### Baselines
+Transfer-Site: where the model is transferred across different sites in a random order.
+
+SingleSet: in which each client is trained using their local data without FL;
+
+FedAvg: https://github.com/vaseline555/Federated-Averaging-PyTorch;
+
+FL-MRCM: https://github.com/guopengf/FL-MRCM;
+
+GD-GD: https://github.com/ki-ljl/FedPer;
+
+LG-FedAvg: https://github.com/pliang279/LG-FedAvg?utm_source=catalyzex.com;
+
+FedBN: https://github.com/med-air/FedBN?utm_source=catalyzex.com;
+
+FedProx: https://github.com/litian96/FedProx?utm_source=catalyzex.com;
+
+
+
 ### Qualitative Results
 ----------
 <img src="figs/fig1.png" width="536px"/>
