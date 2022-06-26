@@ -28,10 +28,7 @@
 ----------
 <img src="figs/fig0.png" width="536px"/>
 
-Classical FL algorithm for MR image reconstruction: (a) average all the local client models to obtain a general global model, 
-or (b) repeatedly align the latent features between the source and target clients. 
-In contrast, we propose a specificity- preserving mechanism (c) to consider both generalized shared information 
-as well as  client-specific properities.
+Classical FL algorithm for MR image reconstruction: (a) average all the local client models to obtain a general global model, or (b) repeatedly align the latent features between the source and target clients~\cite{guo2021multi}. In contrast, we propose a specificity-preserving mechanism (c) to consider both ``generalized shared information'' as well as ``client-specific properties'' in both the frequency and image spaces.
 
 ### Framework Overview
 ----------
