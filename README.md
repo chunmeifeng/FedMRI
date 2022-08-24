@@ -5,9 +5,10 @@
 > **Authors:** 
 > [Chun-Mei Feng](https://scholar.google.com.hk/citations?user=g2nqHBcAAAAJ&hl=zh-CN), 
 > [Yunlu Yan](), 
-> [Huazhu Fu](http://hzfu.github.io/), 
+> [Shanshan Wang](https://scholar.google.com/citations?hl=en&user=8pnz5L4AAAAJ&view_op=list_works), 
 > [Yong Xu](https://scholar.google.com.hk/citations?user=zOVgYQYAAAAJ&hl=zh-CN), and 
-> [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN).
+> [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN),
+> [Huazhu Fu](http://hzfu.github.io/), 
 
 
 [[Paper](https://arxiv.org/pdf/2112.05752v1.pdf)][[Code](https://github.com/chunmeifeng/FedMRI)]
@@ -100,10 +101,10 @@ Any problem please feel free to contact me: strawberry.feng0304@gmail.com
 
 ```
 @article{feng2021specificity,
-  title={Specificity-Preserving Federated Learning for MR Image Reconstruction},
-  author={Feng, Chun-Mei and Yan, Yunlu and Fu, Huazhu and Xu, Yong and Shao, Ling},
-  journal={arXiv preprint arXiv:2112.05752},
-  year={2021}
+  title={Specificity-preserving federated learning for mr image reconstruction},
+  author={Feng, Chun-Mei and Yan, Yunlu and Wang, Shanshan and Xu, Yong and Shao, Ling and Fu, Huazhu },
+  journal={IEEE Transactions on Medical Imaging},
+  year={2022}
 }
 ```
 
